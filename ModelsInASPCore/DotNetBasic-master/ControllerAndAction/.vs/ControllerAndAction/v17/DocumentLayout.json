@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ControllerAndAction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31BB126F-E359-40EF-8311-B04C48F5CD57}|ControllerAndAction\\ControllerAndAction.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\controllerandaction\\controllerandaction\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BB126F-E359-40EF-8311-B04C48F5CD57}|ControllerAndAction\\ControllerAndAction.csproj|solutionrelative:controllerandaction\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BB126F-E359-40EF-8311-B04C48F5CD57}|ControllerAndAction\\ControllerAndAction.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\controllerandaction\\controllerandaction\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31BB126F-E359-40EF-8311-B04C48F5CD57}|ControllerAndAction\\ControllerAndAction.csproj|solutionrelative:controllerandaction\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BB126F-E359-40EF-8311-B04C48F5CD57}|ControllerAndAction\\ControllerAndAction.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\controllerandaction\\controllerandaction\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31BB126F-E359-40EF-8311-B04C48F5CD57}|ControllerAndAction\\ControllerAndAction.csproj|solutionrelative:controllerandaction\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BB126F-E359-40EF-8311-B04C48F5CD57}|ControllerAndAction\\ControllerAndAction.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\controllerandaction\\controllerandaction\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31BB126F-E359-40EF-8311-B04C48F5CD57}|ControllerAndAction\\ControllerAndAction.csproj|solutionrelative:controllerandaction\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ControllerAndAction\\ControllerAndAction\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ControllerAndAction\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ControllerAndAction\\ControllerAndAction\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "ControllerAndAction\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T10:39:08.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ControllerAndAction\\ControllerAndAction\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ControllerAndAction\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ControllerAndAction\\ControllerAndAction\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ControllerAndAction\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T10:39:02.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ControllerAndAction\\ControllerAndAction\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControllerAndAction\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ControllerAndAction\\ControllerAndAction\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ControllerAndAction\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwGsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T05:43:19.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ControllerAndAction\\ControllerAndAction\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ControllerAndAction\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ControllerAndAction\\ControllerAndAction\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ControllerAndAction\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:28:19.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

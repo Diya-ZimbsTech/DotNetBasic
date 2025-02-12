@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ASPCoreViewImports\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE4ADE-0B10-423C-9132-1469471ED67C}|ASPCoreViewImports\\ASPCoreViewImports.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\aspcoreviewimports\\aspcoreviewimports\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0BE4ADE-0B10-423C-9132-1469471ED67C}|ASPCoreViewImports\\ASPCoreViewImports.csproj|solutionrelative:aspcoreviewimports\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE4ADE-0B10-423C-9132-1469471ED67C}|ASPCoreViewImports\\ASPCoreViewImports.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\aspcoreviewimports\\aspcoreviewimports\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0BE4ADE-0B10-423C-9132-1469471ED67C}|ASPCoreViewImports\\ASPCoreViewImports.csproj|solutionrelative:aspcoreviewimports\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE4ADE-0B10-423C-9132-1469471ED67C}|ASPCoreViewImports\\ASPCoreViewImports.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\aspcoreviewimports\\aspcoreviewimports\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0BE4ADE-0B10-423C-9132-1469471ED67C}|ASPCoreViewImports\\ASPCoreViewImports.csproj|solutionrelative:aspcoreviewimports\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE4ADE-0B10-423C-9132-1469471ED67C}|ASPCoreViewImports\\ASPCoreViewImports.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\aspcoreviewimports\\aspcoreviewimports\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0BE4ADE-0B10-423C-9132-1469471ED67C}|ASPCoreViewImports\\ASPCoreViewImports.csproj|solutionrelative:aspcoreviewimports\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE4ADE-0B10-423C-9132-1469471ED67C}|ASPCoreViewImports\\ASPCoreViewImports.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\aspcoreviewimports\\aspcoreviewimports\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BE4ADE-0B10-423C-9132-1469471ED67C}|ASPCoreViewImports\\ASPCoreViewImports.csproj|solutionrelative:aspcoreviewimports\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE4ADE-0B10-423C-9132-1469471ED67C}|ASPCoreViewImports\\ASPCoreViewImports.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\aspcoreviewimports\\aspcoreviewimports\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BE4ADE-0B10-423C-9132-1469471ED67C}|ASPCoreViewImports\\ASPCoreViewImports.csproj|solutionrelative:aspcoreviewimports\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ASPCoreViewImports\\ASPCoreViewImports\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreViewImports\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ASPCoreViewImports\\ASPCoreViewImports\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASPCoreViewImports\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T12:17:56.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ASPCoreViewImports\\ASPCoreViewImports\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreViewImports\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ASPCoreViewImports\\ASPCoreViewImports\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ASPCoreViewImports\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T12:10:41.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ASPCoreViewImports\\ASPCoreViewImports\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreViewImports\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ASPCoreViewImports\\ASPCoreViewImports\\Views\\Home\\Contact.cshtml*",
+              "RelativeToolTip": "ASPCoreViewImports\\Views\\Home\\Contact.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T12:10:39.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ASPCoreViewImports\\ASPCoreViewImports\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreViewImports\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ASPCoreViewImports\\ASPCoreViewImports\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "ASPCoreViewImports\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T12:07:40.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ASPCoreViewImports\\ASPCoreViewImports\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "ASPCoreViewImports\\Models\\Students.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ASPCoreViewImports\\ASPCoreViewImports\\Models\\Students.cs",
+              "RelativeToolTip": "ASPCoreViewImports\\Models\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:01:54.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ASPCoreViewImports\\ASPCoreViewImports\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASPCoreViewImports\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\ASPCoreViewImports\\ASPCoreViewImports\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASPCoreViewImports\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:50:23.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

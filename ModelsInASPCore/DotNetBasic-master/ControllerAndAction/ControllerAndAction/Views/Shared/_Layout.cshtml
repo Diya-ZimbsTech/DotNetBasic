@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <header style="background-color:yellow">
+		<nav>
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="/Home/About">About</a></li>
+				<li><a href="/Home/Contact">Contact</a></li>
+			</ul>
+		</nav>
+    </header>
+
+        @RenderBody()
+
+	<footer style="background-color:aqua">
+		<p>&copy; 2021 - Fresil Patel</p>
+	</footer>
+</body>
+</html>

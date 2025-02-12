@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\InstallingBootstrap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88F3A3FB-FE37-4954-A075-D47E610B2CCF}|InstallingBootstrap\\InstallingBootstrap.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\installingbootstrap\\installingbootstrap\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F3A3FB-FE37-4954-A075-D47E610B2CCF}|InstallingBootstrap\\InstallingBootstrap.csproj|solutionrelative:installingbootstrap\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F3A3FB-FE37-4954-A075-D47E610B2CCF}|InstallingBootstrap\\InstallingBootstrap.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\installingbootstrap\\installingbootstrap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F3A3FB-FE37-4954-A075-D47E610B2CCF}|InstallingBootstrap\\InstallingBootstrap.csproj|solutionrelative:installingbootstrap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F3A3FB-FE37-4954-A075-D47E610B2CCF}|InstallingBootstrap\\InstallingBootstrap.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\installingbootstrap\\installingbootstrap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F3A3FB-FE37-4954-A075-D47E610B2CCF}|InstallingBootstrap\\InstallingBootstrap.csproj|solutionrelative:installingbootstrap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F3A3FB-FE37-4954-A075-D47E610B2CCF}|InstallingBootstrap\\InstallingBootstrap.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\installingbootstrap\\installingbootstrap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F3A3FB-FE37-4954-A075-D47E610B2CCF}|InstallingBootstrap\\InstallingBootstrap.csproj|solutionrelative:installingbootstrap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\InstallingBootstrap\\InstallingBootstrap\\Program.cs",
+              "RelativeDocumentMoniker": "InstallingBootstrap\\Program.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\InstallingBootstrap\\InstallingBootstrap\\Program.cs",
+              "RelativeToolTip": "InstallingBootstrap\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:09:29.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\InstallingBootstrap\\InstallingBootstrap\\Views\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InstallingBootstrap\\Views\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\InstallingBootstrap\\InstallingBootstrap\\Views\\_Layout.cshtml",
+              "RelativeToolTip": "InstallingBootstrap\\Views\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T11:02:30.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\InstallingBootstrap\\InstallingBootstrap\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "InstallingBootstrap\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\InstallingBootstrap\\InstallingBootstrap\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "InstallingBootstrap\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T10:30:03.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\InstallingBootstrap\\InstallingBootstrap\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InstallingBootstrap\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\InstallingBootstrap\\InstallingBootstrap\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InstallingBootstrap\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:27:45.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

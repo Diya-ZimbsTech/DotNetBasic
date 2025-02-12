@@ -1,0 +1,108 @@
+﻿
+@{
+	ViewData["Title"] = "Index";
+	// Layout = "~/Views/Shared/_Layout.cshtml";
+	// Layout = "~/Views/Shared/_Layout1.cshtml";
+	Layout = null;
+}
+
+<h1>Index</h1>
+<p>This is my  home page</p>
+
+@* <h1>Current date and time is @DateTime.Now </h1> *@
+@* <h1>Current year is @DateTime.Now.Year </h1> *@
+
+@* @{ *@
+@*     var name = "fresil patel"; *@
+@*     var age = 21; *@
+@* } *@
+@* <h2>name = @name</h2> *@
+@* <h2>age = @age</h2> *@
+
+@* @{ *@
+@*     var fname = "fresil"; *@
+@*     if(fname.Equals("fresil")) *@
+@*     { *@
+@*         <h2>hello @fname</h2> *@
+@*     } *@
+@*     else *@
+@*     { *@
+@*         <h3>byee @fname</h3> *@
+@*     } *@
+@* } *@
+@* @{ *@
+@*     for (int i = 0; i < 10; i++) *@
+@*     { *@
+@*         <h2>@i</h2> *@
+@*     } *@
+@* } *@
+
+@* @{ *@
+@*     string[] names = { "ramesh", "suresh", "rohan", "ajay" }; *@
+@*     foreach (var item in names) *@
+@*     { *@
+@*         <h2>@item</h2> *@
+@*     } *@
+@* } *@
+
+@* @ViewData["data1"] *@
+@* <br/>	 *@
+@* @ViewData["data2"] *@
+
+@* <br /> *@
+@* @ViewData["data3"] *@
+
+@* @{ *@
+@* 	foreach (var item in (string[])ViewData["data4"]) *@
+@* 	{ *@
+@* 		<h2>@item</h2> *@
+@* 	} *@
+@* } *@
+
+@* @{ *@
+@* 	foreach (var item in (List<string>)ViewData["data5"]) *@
+@* 	{ *@
+@* 		<h3>@item</h3> *@
+@* 	} *@
+
+@* } *@
+
+
+
+@* @ViewBag.data1 *@
+@* <br /> *@
+@* @ViewBag.data2 *@
+@* <br /> *@
+@* @ViewBag.data3 *@
+@* <br /> *@
+@* @ViewBag.data7 *@
+@* <br /> *@
+@* @ViewData["data6"]	 *@
+
+@* @{ *@
+@* 	foreach (var item in ViewBag.data4) *@
+@* 	{ *@
+@* 		<h2>@item</h2> *@
+@* 	} *@
+@* } *@
+
+@* @{ *@
+@* 	foreach (var item in ViewBag.data5) *@
+@* 	{ *@
+@* 		<h3>@item</h3> *@
+@* 	} *@
+
+@* } *@
+
+
+@ViewBag.data1
+@ViewData["data2"]
+@TempData["data3"]
+
+
+@* @{ *@
+@* 	foreach (var item in (List<string>)TempData["data4"]) *@
+@* 	{ *@
+@* 		<h2>@item</h2> *@
+@* 	} *@
+@* } *@
