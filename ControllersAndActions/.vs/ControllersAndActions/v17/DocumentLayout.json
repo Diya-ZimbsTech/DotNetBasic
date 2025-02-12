@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ControllersAndActions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13255762-CC23-430D-9AB7-51C0534BEBF2}|ControllersAndActions\\ControllersAndActions.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\controllersandactions\\controllersandactions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13255762-CC23-430D-9AB7-51C0534BEBF2}|ControllersAndActions\\ControllersAndActions.csproj|solutionrelative:controllersandactions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13255762-CC23-430D-9AB7-51C0534BEBF2}|ControllersAndActions\\ControllersAndActions.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\controllersandactions\\controllersandactions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13255762-CC23-430D-9AB7-51C0534BEBF2}|ControllersAndActions\\ControllersAndActions.csproj|solutionrelative:controllersandactions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ControllersAndActions\\ControllersAndActions\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControllersAndActions\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ControllersAndActions\\ControllersAndActions\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ControllersAndActions\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T05:38:37.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ControllersAndActions\\ControllersAndActions\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ControllersAndActions\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ControllersAndActions\\ControllersAndActions\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ControllersAndActions\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:32:34.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
