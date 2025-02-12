@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\InstallingBootstrap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{090425A5-5E73-42A9-875F-9E9CEFF0568C}|InstallingBootstrap\\InstallingBootstrap.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\installingbootstrap\\installingbootstrap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090425A5-5E73-42A9-875F-9E9CEFF0568C}|InstallingBootstrap\\InstallingBootstrap.csproj|solutionrelative:installingbootstrap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090425A5-5E73-42A9-875F-9E9CEFF0568C}|InstallingBootstrap\\InstallingBootstrap.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\installingbootstrap\\installingbootstrap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{090425A5-5E73-42A9-875F-9E9CEFF0568C}|InstallingBootstrap\\InstallingBootstrap.csproj|solutionrelative:installingbootstrap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090425A5-5E73-42A9-875F-9E9CEFF0568C}|InstallingBootstrap\\InstallingBootstrap.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\installingbootstrap\\installingbootstrap\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{090425A5-5E73-42A9-875F-9E9CEFF0568C}|InstallingBootstrap\\InstallingBootstrap.csproj|solutionrelative:installingbootstrap\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090425A5-5E73-42A9-875F-9E9CEFF0568C}|InstallingBootstrap\\InstallingBootstrap.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\installingbootstrap\\installingbootstrap\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{090425A5-5E73-42A9-875F-9E9CEFF0568C}|InstallingBootstrap\\InstallingBootstrap.csproj|solutionrelative:installingbootstrap\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090425A5-5E73-42A9-875F-9E9CEFF0568C}|InstallingBootstrap\\InstallingBootstrap.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\installingbootstrap\\installingbootstrap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090425A5-5E73-42A9-875F-9E9CEFF0568C}|InstallingBootstrap\\InstallingBootstrap.csproj|solutionrelative:installingbootstrap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\InstallingBootstrap\\InstallingBootstrap\\Views\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InstallingBootstrap\\Views\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\InstallingBootstrap\\InstallingBootstrap\\Views\\_Layout.cshtml*",
+              "RelativeToolTip": "InstallingBootstrap\\Views\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T06:58:47.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\InstallingBootstrap\\InstallingBootstrap\\libman.json",
+              "RelativeDocumentMoniker": "InstallingBootstrap\\libman.json",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\InstallingBootstrap\\InstallingBootstrap\\libman.json",
+              "RelativeToolTip": "InstallingBootstrap\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T06:50:14.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\InstallingBootstrap\\InstallingBootstrap\\Program.cs",
+              "RelativeDocumentMoniker": "InstallingBootstrap\\Program.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\InstallingBootstrap\\InstallingBootstrap\\Program.cs*",
+              "RelativeToolTip": "InstallingBootstrap\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T06:46:14.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\InstallingBootstrap\\InstallingBootstrap\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "InstallingBootstrap\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\InstallingBootstrap\\InstallingBootstrap\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "InstallingBootstrap\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T06:46:09.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\InstallingBootstrap\\InstallingBootstrap\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InstallingBootstrap\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\InstallingBootstrap\\InstallingBootstrap\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InstallingBootstrap\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T06:45:08.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
