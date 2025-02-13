@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TagHelperDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+018a0c57242cf44e0bea03021d0773d2b1c12fdc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fe34040dfe07d5c31125003f0be6f5eaa6b6a23")]
 [assembly: System.Reflection.AssemblyProductAttribute("TagHelperDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TagHelperDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

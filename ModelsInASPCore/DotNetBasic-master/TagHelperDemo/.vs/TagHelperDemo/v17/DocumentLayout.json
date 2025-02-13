@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\TagHelperDemo\\",
+  "WorkspaceRootPath": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ModelsInASPCore\\DotNetBasic-master\\TagHelperDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B6596E2-47AD-40F3-AF18-BC6DB39E2041}|TagHelperDemo\\TagHelperDemo.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\taghelperdemo\\taghelperdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B6596E2-47AD-40F3-AF18-BC6DB39E2041}|TagHelperDemo\\TagHelperDemo.csproj|solutionrelative:taghelperdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B6596E2-47AD-40F3-AF18-BC6DB39E2041}|TagHelperDemo\\TagHelperDemo.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\taghelperdemo\\taghelperdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B6596E2-47AD-40F3-AF18-BC6DB39E2041}|TagHelperDemo\\TagHelperDemo.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\modelsinaspcore\\dotnetbasic-master\\taghelperdemo\\taghelperdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B6596E2-47AD-40F3-AF18-BC6DB39E2041}|TagHelperDemo\\TagHelperDemo.csproj|solutionrelative:taghelperdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B6596E2-47AD-40F3-AF18-BC6DB39E2041}|TagHelperDemo\\TagHelperDemo.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\taghelperdemo\\taghelperdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B6596E2-47AD-40F3-AF18-BC6DB39E2041}|TagHelperDemo\\TagHelperDemo.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\modelsinaspcore\\dotnetbasic-master\\taghelperdemo\\taghelperdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6596E2-47AD-40F3-AF18-BC6DB39E2041}|TagHelperDemo\\TagHelperDemo.csproj|solutionrelative:taghelperdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6596E2-47AD-40F3-AF18-BC6DB39E2041}|TagHelperDemo\\TagHelperDemo.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\modelsinaspcore\\dotnetbasic-master\\taghelperdemo\\taghelperdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B6596E2-47AD-40F3-AF18-BC6DB39E2041}|TagHelperDemo\\TagHelperDemo.csproj|solutionrelative:taghelperdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B6596E2-47AD-40F3-AF18-BC6DB39E2041}|TagHelperDemo\\TagHelperDemo.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\taghelperdemo\\taghelperdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5B6596E2-47AD-40F3-AF18-BC6DB39E2041}|TagHelperDemo\\TagHelperDemo.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\modelsinaspcore\\dotnetbasic-master\\taghelperdemo\\taghelperdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B6596E2-47AD-40F3-AF18-BC6DB39E2041}|TagHelperDemo\\TagHelperDemo.csproj|solutionrelative:taghelperdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B6596E2-47AD-40F3-AF18-BC6DB39E2041}|TagHelperDemo\\TagHelperDemo.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\taghelperdemo\\taghelperdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5B6596E2-47AD-40F3-AF18-BC6DB39E2041}|TagHelperDemo\\TagHelperDemo.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\modelsinaspcore\\dotnetbasic-master\\taghelperdemo\\taghelperdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B6596E2-47AD-40F3-AF18-BC6DB39E2041}|TagHelperDemo\\TagHelperDemo.csproj|solutionrelative:taghelperdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -30,8 +30,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -48,9 +52,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\TagHelperDemo\\TagHelperDemo\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ModelsInASPCore\\DotNetBasic-master\\TagHelperDemo\\TagHelperDemo\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "TagHelperDemo\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\TagHelperDemo\\TagHelperDemo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ModelsInASPCore\\DotNetBasic-master\\TagHelperDemo\\TagHelperDemo\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "TagHelperDemo\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -60,22 +64,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\TagHelperDemo\\TagHelperDemo\\Models\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ModelsInASPCore\\DotNetBasic-master\\TagHelperDemo\\TagHelperDemo\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "TagHelperDemo\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\TagHelperDemo\\TagHelperDemo\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ModelsInASPCore\\DotNetBasic-master\\TagHelperDemo\\TagHelperDemo\\Models\\Employee.cs",
               "RelativeToolTip": "TagHelperDemo\\Models\\Employee.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAA5wA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T08:49:25.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T08:49:25.039Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\TagHelperDemo\\TagHelperDemo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ModelsInASPCore\\DotNetBasic-master\\TagHelperDemo\\TagHelperDemo\\Program.cs",
               "RelativeDocumentMoniker": "TagHelperDemo\\Program.cs",
-              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\TagHelperDemo\\TagHelperDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ModelsInASPCore\\DotNetBasic-master\\TagHelperDemo\\TagHelperDemo\\Program.cs",
               "RelativeToolTip": "TagHelperDemo\\Program.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwBgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -86,24 +89,23 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\TagHelperDemo\\TagHelperDemo\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ModelsInASPCore\\DotNetBasic-master\\TagHelperDemo\\TagHelperDemo\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "TagHelperDemo\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\TagHelperDemo\\TagHelperDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ModelsInASPCore\\DotNetBasic-master\\TagHelperDemo\\TagHelperDemo\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "TagHelperDemo\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T04:57:18.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T04:57:18.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\TagHelperDemo\\TagHelperDemo\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ModelsInASPCore\\DotNetBasic-master\\TagHelperDemo\\TagHelperDemo\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "TagHelperDemo\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\TagHelperDemo\\TagHelperDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ModelsInASPCore\\DotNetBasic-master\\TagHelperDemo\\TagHelperDemo\\Controllers\\HomeController.cs",
               "RelativeToolTip": "TagHelperDemo\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T04:55:20.919Z",
               "EditorCaption": ""
