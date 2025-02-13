@@ -1,0 +1,46 @@
+﻿@model ValidationAttributesASPCore.Models.Student;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <form asp-controller="Home" asp-action="Index" method="post">
+                <div asp-validation-summary="All" style="color: red">
+
+                </div>
+                <input asp-for="Name" class="form-control" placeholder="Enter Your Name"/>
+                @* <span asp-validation-for="Name" style="color:red"></span> *@
+                <br/>
+                <input asp-for="Email" class="form-control" placeholder="Enter Email" />
+                @* <span asp-validation-for="Email" style="color:red"></span> *@
+                <br />
+                <input asp-for="Age" class="form-control" placeholder="Enter Age" />
+                @* <span asp-validation-for="Age" style="color:red"></span> *@
+                <br />
+
+
+
+                @* <input asp-for="Password" class="form-control" placeholder="Enter Password" /> *@
+                @* <span asp-validation-for="Password" style="color:red"></span> *@
+                @* <br /> *@
+                @* <label asp-for="ConfirmPassword"></label> *@
+                @* <input asp-for="ConfirmPassword" class="form-control" placeholder="Enter Confirm Password" /> *@
+                @* <span asp-validation-for="ConfirmPassword" style="color:red"></span> *@
+                @* <br /> *@
+                @* <input asp-for="Phone" class="form-control" placeholder="Enter Phone Number" /> *@
+                @* <span asp-validation-for="Phone" style="color:red"></span> *@
+                @* <br /> *@
+                @* <input asp-for="WebsiteURL" class="form-control" placeholder="Enter Website URL" /> *@
+                @* <span asp-validation-for="WebsiteURL" style="color:red"></span> *@
+                @* <br /> *@
+                <input type="submit" value="Submit" class="btn btn-outline-primary" />
+            </form>
+        </div>
+    </div>
+</div>
