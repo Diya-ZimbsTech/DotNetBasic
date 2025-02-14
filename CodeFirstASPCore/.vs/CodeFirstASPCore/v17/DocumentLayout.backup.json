@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CodeFirstASPCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F080F74F-BF52-42A5-BC60-0DBC49BC09EF}|CodeFirstASPCore\\CodeFirstASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\codefirstaspcore\\codefirstaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F080F74F-BF52-42A5-BC60-0DBC49BC09EF}|CodeFirstASPCore\\CodeFirstASPCore.csproj|solutionrelative:codefirstaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F080F74F-BF52-42A5-BC60-0DBC49BC09EF}|CodeFirstASPCore\\CodeFirstASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\codefirstaspcore\\codefirstaspcore\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F080F74F-BF52-42A5-BC60-0DBC49BC09EF}|CodeFirstASPCore\\CodeFirstASPCore.csproj|solutionrelative:codefirstaspcore\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F080F74F-BF52-42A5-BC60-0DBC49BC09EF}|CodeFirstASPCore\\CodeFirstASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\codefirstaspcore\\codefirstaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F080F74F-BF52-42A5-BC60-0DBC49BC09EF}|CodeFirstASPCore\\CodeFirstASPCore.csproj|solutionrelative:codefirstaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F080F74F-BF52-42A5-BC60-0DBC49BC09EF}|CodeFirstASPCore\\CodeFirstASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\codefirstaspcore\\codefirstaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F080F74F-BF52-42A5-BC60-0DBC49BC09EF}|CodeFirstASPCore\\CodeFirstASPCore.csproj|solutionrelative:codefirstaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F080F74F-BF52-42A5-BC60-0DBC49BC09EF}|CodeFirstASPCore\\CodeFirstASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\codefirstaspcore\\codefirstaspcore\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F080F74F-BF52-42A5-BC60-0DBC49BC09EF}|CodeFirstASPCore\\CodeFirstASPCore.csproj|solutionrelative:codefirstaspcore\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F080F74F-BF52-42A5-BC60-0DBC49BC09EF}|CodeFirstASPCore\\CodeFirstASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\codefirstaspcore\\codefirstaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F080F74F-BF52-42A5-BC60-0DBC49BC09EF}|CodeFirstASPCore\\CodeFirstASPCore.csproj|solutionrelative:codefirstaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F080F74F-BF52-42A5-BC60-0DBC49BC09EF}|CodeFirstASPCore\\CodeFirstASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\codefirstaspcore\\codefirstaspcore\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F080F74F-BF52-42A5-BC60-0DBC49BC09EF}|CodeFirstASPCore\\CodeFirstASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\codefirstaspcore\\codefirstaspcore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F080F74F-BF52-42A5-BC60-0DBC49BC09EF}|CodeFirstASPCore\\CodeFirstASPCore.csproj|solutionrelative:codefirstaspcore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F080F74F-BF52-42A5-BC60-0DBC49BC09EF}|CodeFirstASPCore\\CodeFirstASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\codefirstaspcore\\codefirstaspcore\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F080F74F-BF52-42A5-BC60-0DBC49BC09EF}|CodeFirstASPCore\\CodeFirstASPCore.csproj|solutionrelative:codefirstaspcore\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F080F74F-BF52-42A5-BC60-0DBC49BC09EF}|CodeFirstASPCore\\CodeFirstASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\codefirstaspcore\\codefirstaspcore\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +70,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CodeFirstASPCore\\CodeFirstASPCore\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstASPCore\\Program.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CodeFirstASPCore\\CodeFirstASPCore\\Program.cs",
+              "RelativeToolTip": "CodeFirstASPCore\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:31:15.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CodeFirstASPCore\\CodeFirstASPCore\\Views\\Home\\Delete.cshtml",
               "RelativeDocumentMoniker": "CodeFirstASPCore\\Views\\Home\\Delete.cshtml",
@@ -74,25 +90,24 @@
               "RelativeToolTip": "CodeFirstASPCore\\Views\\Home\\Delete.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T11:17:47.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T11:17:47.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CodeFirstASPCore\\CodeFirstASPCore\\Views\\Home\\Edit.cshtml",
               "RelativeDocumentMoniker": "CodeFirstASPCore\\Views\\Home\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CodeFirstASPCore\\CodeFirstASPCore\\Views\\Home\\Edit.cshtml",
-              "RelativeToolTip": "CodeFirstASPCore\\Views\\Home\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CodeFirstASPCore\\CodeFirstASPCore\\Views\\Home\\Edit.cshtml*",
+              "RelativeToolTip": "CodeFirstASPCore\\Views\\Home\\Edit.cshtml*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-13T11:06:41.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CodeFirstASPCore\\CodeFirstASPCore\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "CodeFirstASPCore\\Views\\Home\\Details.cshtml",
@@ -100,18 +115,17 @@
               "RelativeToolTip": "CodeFirstASPCore\\Views\\Home\\Details.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T10:56:02.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T10:56:02.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CodeFirstASPCore\\CodeFirstASPCore\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "CodeFirstASPCore\\Views\\Home\\Create.cshtml",
               "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CodeFirstASPCore\\CodeFirstASPCore\\Views\\Home\\Create.cshtml",
               "RelativeToolTip": "CodeFirstASPCore\\Views\\Home\\Create.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-13T10:31:52.093Z",
               "EditorCaption": ""
@@ -124,27 +138,27 @@
               "RelativeDocumentMoniker": "CodeFirstASPCore\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CodeFirstASPCore\\CodeFirstASPCore\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "CodeFirstASPCore\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAQwFMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAwBgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-13T10:09:06.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CodeFirstASPCore\\CodeFirstASPCore\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CodeFirstASPCore\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CodeFirstASPCore\\CodeFirstASPCore\\Controllers\\HomeController.cs*",
               "RelativeToolTip": "CodeFirstASPCore\\Controllers\\HomeController.cs*",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowHQAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAowEkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T10:02:09.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CodeFirstASPCore\\CodeFirstASPCore\\appsettings.json",
               "RelativeDocumentMoniker": "CodeFirstASPCore\\appsettings.json",
@@ -152,12 +166,11 @@
               "RelativeToolTip": "CodeFirstASPCore\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-13T09:37:14.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T09:37:14.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "StudentDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CodeFirstASPCore\\CodeFirstASPCore\\Models\\StudentDBContext.cs",
               "RelativeDocumentMoniker": "CodeFirstASPCore\\Models\\StudentDBContext.cs",
@@ -165,12 +178,11 @@
               "RelativeToolTip": "CodeFirstASPCore\\Models\\StudentDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T09:18:42.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T09:18:42.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CodeFirstASPCore\\CodeFirstASPCore\\Models\\Student.cs",
               "RelativeDocumentMoniker": "CodeFirstASPCore\\Models\\Student.cs",
@@ -178,8 +190,7 @@
               "RelativeToolTip": "CodeFirstASPCore\\Models\\Student.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T09:14:58.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T09:14:58.381Z"
             }
           ]
         }

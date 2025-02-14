@@ -2,6 +2,7 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using CodeFirstASPCore.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace CodeFirstASPCore.Controllers;
 
@@ -28,6 +29,12 @@ public class HomeController : Controller
     }
     public IActionResult Create()
     {
+        List<SelectListItem> Gender = new()
+        {
+            new SelectListItem { Value="Male",Text = "Male" },
+            new SelectListItem { Value = "Female", Text = "Female" },
+        };
+        ViewBag.Gender = Gender;
         return View();
     }
     [HttpPost]
@@ -59,6 +66,12 @@ public class HomeController : Controller
 
     public async Task<IActionResult> Edit(int? id)
     {
+        List<SelectListItem> Gender = new()
+        {
+            new SelectListItem { Value="Male",Text = "Male" },
+            new SelectListItem { Value = "Female", Text = "Female" },
+        };
+        ViewBag.Gender = Gender;
         if (id == null || studentDB.Students == null)
         {
             return NotFound();
