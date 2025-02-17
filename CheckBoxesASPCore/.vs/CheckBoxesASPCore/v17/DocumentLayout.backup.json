@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CheckBoxesASPCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBB0951-C0CB-4F45-A14D-99C4C2283F4C}|CheckBoxesASPCore\\CheckBoxesASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\checkboxesaspcore\\checkboxesaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBB0951-C0CB-4F45-A14D-99C4C2283F4C}|CheckBoxesASPCore\\CheckBoxesASPCore.csproj|solutionrelative:checkboxesaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBB0951-C0CB-4F45-A14D-99C4C2283F4C}|CheckBoxesASPCore\\CheckBoxesASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\checkboxesaspcore\\checkboxesaspcore\\models\\checkboxoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBB0951-C0CB-4F45-A14D-99C4C2283F4C}|CheckBoxesASPCore\\CheckBoxesASPCore.csproj|solutionrelative:checkboxesaspcore\\models\\checkboxoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBB0951-C0CB-4F45-A14D-99C4C2283F4C}|CheckBoxesASPCore\\CheckBoxesASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\checkboxesaspcore\\checkboxesaspcore\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBB0951-C0CB-4F45-A14D-99C4C2283F4C}|CheckBoxesASPCore\\CheckBoxesASPCore.csproj|solutionrelative:checkboxesaspcore\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBB0951-C0CB-4F45-A14D-99C4C2283F4C}|CheckBoxesASPCore\\CheckBoxesASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\checkboxesaspcore\\checkboxesaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DBB0951-C0CB-4F45-A14D-99C4C2283F4C}|CheckBoxesASPCore\\CheckBoxesASPCore.csproj|solutionrelative:checkboxesaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckBoxOption.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CheckBoxesASPCore\\CheckBoxesASPCore\\Models\\CheckBoxOption.cs",
+              "RelativeDocumentMoniker": "CheckBoxesASPCore\\Models\\CheckBoxOption.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CheckBoxesASPCore\\CheckBoxesASPCore\\Models\\CheckBoxOption.cs",
+              "RelativeToolTip": "CheckBoxesASPCore\\Models\\CheckBoxOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T06:00:50.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CheckBoxesASPCore\\CheckBoxesASPCore\\Models\\ViewModel.cs",
+              "RelativeDocumentMoniker": "CheckBoxesASPCore\\Models\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CheckBoxesASPCore\\CheckBoxesASPCore\\Models\\ViewModel.cs",
+              "RelativeToolTip": "CheckBoxesASPCore\\Models\\ViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T05:40:35.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CheckBoxesASPCore\\CheckBoxesASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CheckBoxesASPCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CheckBoxesASPCore\\CheckBoxesASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CheckBoxesASPCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T05:40:22.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CheckBoxesASPCore\\CheckBoxesASPCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CheckBoxesASPCore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CheckBoxesASPCore\\CheckBoxesASPCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CheckBoxesASPCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwDcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T05:40:17.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
