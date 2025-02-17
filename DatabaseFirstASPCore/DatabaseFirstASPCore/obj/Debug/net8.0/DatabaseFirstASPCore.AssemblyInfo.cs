@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DatabaseFirstASPCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98d9d9ecf18d53d346b7a59f0a4bca63f5b2f588")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cde56bff9197e149c9f50876a13fd269e1733408")]
 [assembly: System.Reflection.AssemblyProductAttribute("DatabaseFirstASPCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DatabaseFirstASPCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\DatabaseFirstASPCore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{908C2A67-7F85-468C-9135-91B165BD9C13}|DatabaseFirstASPCore\\DatabaseFirstASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\databasefirstaspcore\\databasefirstaspcore\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908C2A67-7F85-468C-9135-91B165BD9C13}|DatabaseFirstASPCore\\DatabaseFirstASPCore.csproj|solutionrelative:databasefirstaspcore\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{908C2A67-7F85-468C-9135-91B165BD9C13}|DatabaseFirstASPCore\\DatabaseFirstASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\databasefirstaspcore\\databasefirstaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{908C2A67-7F85-468C-9135-91B165BD9C13}|DatabaseFirstASPCore\\DatabaseFirstASPCore.csproj|solutionrelative:databasefirstaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{908C2A67-7F85-468C-9135-91B165BD9C13}|DatabaseFirstASPCore\\DatabaseFirstASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\databasefirstaspcore\\databasefirstaspcore\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{908C2A67-7F85-468C-9135-91B165BD9C13}|DatabaseFirstASPCore\\DatabaseFirstASPCore.csproj|solutionrelative:databasefirstaspcore\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{908C2A67-7F85-468C-9135-91B165BD9C13}|DatabaseFirstASPCore\\DatabaseFirstASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\databasefirstaspcore\\databasefirstaspcore\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{908C2A67-7F85-468C-9135-91B165BD9C13}|DatabaseFirstASPCore\\DatabaseFirstASPCore.csproj|solutionrelative:databasefirstaspcore\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{908C2A67-7F85-468C-9135-91B165BD9C13}|DatabaseFirstASPCore\\DatabaseFirstASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\databasefirstaspcore\\databasefirstaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\DatabaseFirstASPCore\\DatabaseFirstASPCore\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "DatabaseFirstASPCore\\Views\\Home\\Index.cshtml",
@@ -71,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\DatabaseFirstASPCore\\DatabaseFirstASPCore\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "DatabaseFirstASPCore\\Views\\Home\\Create.cshtml",
@@ -79,12 +79,11 @@
               "RelativeToolTip": "DatabaseFirstASPCore\\Views\\Home\\Create.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-14T05:31:38.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T05:31:38.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\DatabaseFirstASPCore\\DatabaseFirstASPCore\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DatabaseFirstASPCore\\Controllers\\HomeController.cs",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "DatabaseFirstASPCore\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAI0AAAAAAAAAAAA1wJUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T05:28:20.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T05:28:20.357Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "DatabaseFirstASPCore\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T05:14:43.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T05:14:43.953Z"
             },
             {
               "$type": "Document",
@@ -118,12 +115,11 @@
               "RelativeToolTip": "DatabaseFirstASPCore\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-14T05:09:49.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T05:09:49.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\DatabaseFirstASPCore\\DatabaseFirstASPCore\\Models\\Student.cs",
               "RelativeDocumentMoniker": "DatabaseFirstASPCore\\Models\\Student.cs",
@@ -131,18 +127,17 @@
               "RelativeToolTip": "DatabaseFirstASPCore\\Models\\Student.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T05:02:43.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T05:02:43.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "CodeFirstDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\DatabaseFirstASPCore\\DatabaseFirstASPCore\\Models\\CodeFirstDbContext.cs",
               "RelativeDocumentMoniker": "DatabaseFirstASPCore\\Models\\CodeFirstDbContext.cs",
               "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\DatabaseFirstASPCore\\DatabaseFirstASPCore\\Models\\CodeFirstDbContext.cs",
               "RelativeToolTip": "DatabaseFirstASPCore\\Models\\CodeFirstDbContext.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowAwAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T05:02:05.485Z",
               "EditorCaption": ""

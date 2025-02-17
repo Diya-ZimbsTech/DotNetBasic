@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\DatabaseFirstASPCore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{908C2A67-7F85-468C-9135-91B165BD9C13}|DatabaseFirstASPCore\\DatabaseFirstASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\databasefirstaspcore\\databasefirstaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{908C2A67-7F85-468C-9135-91B165BD9C13}|DatabaseFirstASPCore\\DatabaseFirstASPCore.csproj|solutionrelative:databasefirstaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{908C2A67-7F85-468C-9135-91B165BD9C13}|DatabaseFirstASPCore\\DatabaseFirstASPCore.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\databasefirstaspcore\\databasefirstaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{908C2A67-7F85-468C-9135-91B165BD9C13}|DatabaseFirstASPCore\\DatabaseFirstASPCore.csproj|solutionrelative:databasefirstaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\DatabaseFirstASPCore\\DatabaseFirstASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirstASPCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\DatabaseFirstASPCore\\DatabaseFirstASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DatabaseFirstASPCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T05:41:00.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\DatabaseFirstASPCore\\DatabaseFirstASPCore\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "DatabaseFirstASPCore\\Views\\Home\\Create.cshtml",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\DatabaseFirstASPCore\\DatabaseFirstASPCore\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DatabaseFirstASPCore\\Controllers\\HomeController.cs",
@@ -80,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\DatabaseFirstASPCore\\DatabaseFirstASPCore\\Program.cs",
               "RelativeDocumentMoniker": "DatabaseFirstASPCore\\Program.cs",
@@ -93,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\DatabaseFirstASPCore\\DatabaseFirstASPCore\\appsettings.json",
               "RelativeDocumentMoniker": "DatabaseFirstASPCore\\appsettings.json",
@@ -106,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\DatabaseFirstASPCore\\DatabaseFirstASPCore\\Models\\Student.cs",
               "RelativeDocumentMoniker": "DatabaseFirstASPCore\\Models\\Student.cs",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CodeFirstDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\DatabaseFirstASPCore\\DatabaseFirstASPCore\\Models\\CodeFirstDbContext.cs",
               "RelativeDocumentMoniker": "DatabaseFirstASPCore\\Models\\CodeFirstDbContext.cs",
