@@ -1,4 +1,6 @@
-﻿@{
+﻿@model BindDDLWithDatabase.Models.StudentModel
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
@@ -6,3 +8,19 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+
+<form asp-controller="Home" asp-action ="Index" method="post">
+    <label class="form-label">Select Student NAme</label>
+    @* <select class="form-control" asp-for="Id" asp-items="@(new SelectList(Model.StudentList,"Value","Text"))"> *@
+    @* </select> *@
+	@Html.DropDownListFor(m => m.Id, new SelectList(Model.StudentList, "Value", "Text"), "Select Student", new { @class = "form-control" })
+    <br/>
+	<input type="submit" value="Submit" class="btn btn-success" />
+</form>
+
+@{
+	if (ViewBag.SelectedStudent != null)
+	{
+		<h3>Selected Student: @ViewBag.SelectedStudent</h3>
+	}
+}

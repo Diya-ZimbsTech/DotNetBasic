@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\BindDDLWithDatabase\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C676D7A5-BB31-4D4E-8B3D-320F7F3A57E3}|BindDDLWithDatabase\\BindDDLWithDatabase.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\bindddlwithdatabase\\bindddlwithdatabase\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C676D7A5-BB31-4D4E-8B3D-320F7F3A57E3}|BindDDLWithDatabase\\BindDDLWithDatabase.csproj|solutionrelative:bindddlwithdatabase\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C676D7A5-BB31-4D4E-8B3D-320F7F3A57E3}|BindDDLWithDatabase\\BindDDLWithDatabase.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\bindddlwithdatabase\\bindddlwithdatabase\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C676D7A5-BB31-4D4E-8B3D-320F7F3A57E3}|BindDDLWithDatabase\\BindDDLWithDatabase.csproj|solutionrelative:bindddlwithdatabase\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C676D7A5-BB31-4D4E-8B3D-320F7F3A57E3}|BindDDLWithDatabase\\BindDDLWithDatabase.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\bindddlwithdatabase\\bindddlwithdatabase\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C676D7A5-BB31-4D4E-8B3D-320F7F3A57E3}|BindDDLWithDatabase\\BindDDLWithDatabase.csproj|solutionrelative:bindddlwithdatabase\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{C676D7A5-BB31-4D4E-8B3D-320F7F3A57E3}|BindDDLWithDatabase\\BindDDLWithDatabase.csproj|solutionrelative:bindddlwithdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\BindDDLWithDatabase\\BindDDLWithDatabase\\Models\\CodeFirstDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BindDDLWithDatabase\\Models\\CodeFirstDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C676D7A5-BB31-4D4E-8B3D-320F7F3A57E3}|BindDDLWithDatabase\\BindDDLWithDatabase.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\bindddlwithdatabase\\bindddlwithdatabase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C676D7A5-BB31-4D4E-8B3D-320F7F3A57E3}|BindDDLWithDatabase\\BindDDLWithDatabase.csproj|solutionrelative:bindddlwithdatabase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C676D7A5-BB31-4D4E-8B3D-320F7F3A57E3}|BindDDLWithDatabase\\BindDDLWithDatabase.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\bindddlwithdatabase\\bindddlwithdatabase\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C676D7A5-BB31-4D4E-8B3D-320F7F3A57E3}|BindDDLWithDatabase\\BindDDLWithDatabase.csproj|solutionrelative:bindddlwithdatabase\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,32 +55,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\BindDDLWithDatabase\\BindDDLWithDatabase\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BindDDLWithDatabase\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\BindDDLWithDatabase\\BindDDLWithDatabase\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BindDDLWithDatabase\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T05:15:19.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\BindDDLWithDatabase\\BindDDLWithDatabase\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BindDDLWithDatabase\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\BindDDLWithDatabase\\BindDDLWithDatabase\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BindDDLWithDatabase\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwDAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T05:09:31.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StudentModel.cs",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\BindDDLWithDatabase\\BindDDLWithDatabase\\Models\\StudentModel.cs",
               "RelativeDocumentMoniker": "BindDDLWithDatabase\\Models\\StudentModel.cs",
               "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\BindDDLWithDatabase\\BindDDLWithDatabase\\Models\\StudentModel.cs",
               "RelativeToolTip": "BindDDLWithDatabase\\Models\\StudentModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T12:43:29.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\BindDDLWithDatabase\\BindDDLWithDatabase\\Program.cs",
               "RelativeDocumentMoniker": "BindDDLWithDatabase\\Program.cs",
               "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\BindDDLWithDatabase\\BindDDLWithDatabase\\Program.cs",
               "RelativeToolTip": "BindDDLWithDatabase\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T12:40:16.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\BindDDLWithDatabase\\BindDDLWithDatabase\\appsettings.json",
               "RelativeDocumentMoniker": "BindDDLWithDatabase\\appsettings.json",
@@ -85,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CodeFirstDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\BindDDLWithDatabase\\BindDDLWithDatabase\\Models\\CodeFirstDbContext.cs",
               "RelativeDocumentMoniker": "BindDDLWithDatabase\\Models\\CodeFirstDbContext.cs",
