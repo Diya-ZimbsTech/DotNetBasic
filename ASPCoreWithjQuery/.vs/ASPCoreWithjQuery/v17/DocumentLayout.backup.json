@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ASPCoreWithjQuery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEA164A-EE65-45D1-AF73-86429227C977}|ASPCoreWithjQuery\\ASPCoreWithjQuery.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\aspcorewithjquery\\aspcorewithjquery\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEA164A-EE65-45D1-AF73-86429227C977}|ASPCoreWithjQuery\\ASPCoreWithjQuery.csproj|solutionrelative:aspcorewithjquery\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEA164A-EE65-45D1-AF73-86429227C977}|ASPCoreWithjQuery\\ASPCoreWithjQuery.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\aspcorewithjquery\\aspcorewithjquery\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFEA164A-EE65-45D1-AF73-86429227C977}|ASPCoreWithjQuery\\ASPCoreWithjQuery.csproj|solutionrelative:aspcorewithjquery\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEA164A-EE65-45D1-AF73-86429227C977}|ASPCoreWithjQuery\\ASPCoreWithjQuery.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\aspcorewithjquery\\aspcorewithjquery\\models\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEA164A-EE65-45D1-AF73-86429227C977}|ASPCoreWithjQuery\\ASPCoreWithjQuery.csproj|solutionrelative:aspcorewithjquery\\models\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ASPCoreWithjQuery\\ASPCoreWithjQuery\\Models\\Calculation.cs",
+              "RelativeDocumentMoniker": "ASPCoreWithjQuery\\Models\\Calculation.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ASPCoreWithjQuery\\ASPCoreWithjQuery\\Models\\Calculation.cs*",
+              "RelativeToolTip": "ASPCoreWithjQuery\\Models\\Calculation.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:59:28.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ASPCoreWithjQuery\\ASPCoreWithjQuery\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASPCoreWithjQuery\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ASPCoreWithjQuery\\ASPCoreWithjQuery\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "ASPCoreWithjQuery\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:10:38.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ASPCoreWithjQuery\\ASPCoreWithjQuery\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreWithjQuery\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ASPCoreWithjQuery\\ASPCoreWithjQuery\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "ASPCoreWithjQuery\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T08:13:24.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

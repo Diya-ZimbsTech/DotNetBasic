@@ -1,0 +1,112 @@
+﻿@{
+	ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+	<h1 class="display-4">Welcome</h1>
+	<p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-6">
+			<div class="mb-3">
+				<label for="txtName" class="form-label">First Number</label>
+				<input type="text" class="form-control" id="num1" placeholder="Enter First Number">
+			</div>
+			<div class="mb-3">
+				<label for="txtName" class="form-label">Second Number</label>
+				<input type="text" class="form-control" id="num2" placeholder="Enter Second Number">
+			</div>
+			<br />
+			<button class="btn btn-info" onclick="Display()">Add</button>
+			<button class="btn btn-info" onclick="Display2()">Sub</button>
+			<button class="btn btn-info" onclick="calculate()">Calculate</button>
+			<br />
+			<h3 id="result"></h3>
+		</div>
+	</div>
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript">
+	// $(document).ready(function () {
+	//     alert("Welcome to jQuery");
+	// });
+	function Display()
+	{
+		var n1 = parseInt($("#num1").val());
+		var n2 = parseInt($("#num2").val());
+		// var data = num1 / num2;
+		// $("#result").text(data);
+
+		$.ajax({
+			type:'POST',
+			url: '@Url.Action("Add", "Home")',
+			data : {num1 :n1, num2: n2},
+			dataType : 'text',
+			success: function (response, status, xhr){
+				$("#result").text(response);
+			},
+			error: function(req, status, error){
+				// alert("Error: " + error);
+				$("#result").text(error);
+
+			}
+		});
+	}
+
+
+	function Display2()
+	{
+		var n1 = parseInt($("#num1").val());
+		var n2 = parseInt($("#num2").val());
+		// var data = num1 / num2;
+		// $("#result").text(data);
+
+		$.ajax({
+			type:'POST',
+			url: '@Url.Action("Sub","Home")',
+			data : {num1 :n1, num2: n2},
+			dataType : 'text',
+			success: function (response, status, xhr){
+				$("#result").text(response);
+			},
+			error: function(req, status, error){
+				// alert("Error: " + error);
+				$("#result").text(error);
+
+			}
+		});
+	}
+
+	function calculate()
+	{
+		var n1 = parseFloat($("#num1").val());
+		var n2 = parseFloat($("#num2").val());
+		// var data = num1 / num2;
+		// $("#result").text(data);
+
+		$.ajax({
+			type:'POST',
+			url: '@Url.Action("Calculate")',
+			data : {num1 :n1, num2: n2},
+			dataType : 'json',
+			success: function (response, status, xhr){
+
+				var data = "Addition result is: " + response.add + 
+				" <br>Subtraction result is: " + response.substract + "<br>Multiply Result is " + response.multiply + "<br>Division result is " + response.division;
+				
+
+				$("#result").html(data);
+			},
+			error: function(req, status, error){
+				// alert("Error: " + error);
+				$("#result").text(error);
+
+			}
+		});
+	}
+
+</script>
