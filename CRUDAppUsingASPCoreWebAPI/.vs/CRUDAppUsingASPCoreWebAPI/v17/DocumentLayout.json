@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CRUDAppUsingASPCoreWebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F615A710-52BD-4748-B829-9450650E128D}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F615A710-52BD-4748-B829-9450650E128D}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|solutionrelative:crudappusingaspcorewebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F615A710-52BD-4748-B829-9450650E128D}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F615A710-52BD-4748-B829-9450650E128D}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|solutionrelative:crudappusingaspcorewebapi\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F615A710-52BD-4748-B829-9450650E128D}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F615A710-52BD-4748-B829-9450650E128D}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|solutionrelative:crudappusingaspcorewebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F615A710-52BD-4748-B829-9450650E128D}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,8 +70,7 @@
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T05:03:18.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T05:03:18.23Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Details.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T05:00:34.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T05:00:34.086Z"
             },
             {
               "$type": "Document",
@@ -108,8 +106,7 @@
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Create.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T16:45:28.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T16:45:28.411Z"
             },
             {
               "$type": "Document",
@@ -121,31 +118,30 @@
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAwBgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T16:30:38.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T16:30:38.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Index.cshtml",
               "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-17T16:27:26.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "CRUDAppUsingASPCoreWebAPI\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI\\Controllers\\StudentController.cs",
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAIMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T16:11:41.924Z",
               "EditorCaption": ""
